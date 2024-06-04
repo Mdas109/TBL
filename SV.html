@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 	
@@ -17,9 +14,8 @@
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
  <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
    
-  <link rel="stylesheet" href="">
-
-  <title>STAR SPORTS 1 TAMIL| TAMIL BOX LIVE  </title>
+  
+  <title> Star vijay HD | TAMIL BOX LIVE  </title>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 
 
@@ -47,7 +43,7 @@
    background: w
   }
 
-  # player-container{
+  #jwplayerDiv{
    padding: 47.50% 0 0 0;
    position: relative;
    width: 90%;
@@ -435,51 +431,43 @@
   
 
 
+
+
 <script src="https://content.jwplatform.com/libraries/Z79JsmAO.js"></script>
+<div id="jwplayerDiv"></div>
+    <script src="//content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    <script type="text/javascript">
+        // Use the PHP configuration directly within the JavaScript
+        var config = {"file":"https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd?begin=20240530T010000&end=20240606T160000","drm":{"clearkey":{"keyId":"6591066933a4513d909c3b0371b0e5dc","key":"a18eb68658a9fa0816ec582cf46c4e51"}}};
 
-<div id="jwplayerDiv"><div id="my-video"></div></div>
-   
-</div>
+        jwplayer("jwplayerDiv").setup({
+            file: config.file,
+            position: 'bottom',
+            autostart: true,
+            stretching: "",
+            width: "100%",
+            type: "dash",
+            drm: {
+                clearkey: {
+                    keyId: config.drm.clearkey.keyId,
+                    key: config.drm.clearkey.key
+                }
+            }
+        });
+    </script>
 
-              <div id="player-container"></div>
-            <script>
-              // Initialize JW Player
-              var player = jwplayer("player-container");
 
-              // Setup JW Player configuration
-              player.setup({
-              "file": "https://tamilultra.team/master.m3u8?c=SPTAMHD&server=3",
-              "width": "100%",
-              stretching: "",
-              "height": "250px",
-              "type": "hls",
-              "autostart": "true",
-              "mute": "false",
-              "primary": "html5",
-              "logo": {
-                   "file": "TB.jpg",
-                   "hide": "false",
-                   "position": "top-left" }
-                });
-            </script>
-           </center>
-            <!--Video Player End-->
-
+  
 <div class="program-info">
-  <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3VFzAlfWDd5w6DxPWzlE6oxtp1zij7rDwznWgG0Bwg&s" alt="Channel Logo">
+  <img class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6SUdfBc6ZSDSCPHdGm72qgjrypwyTIM2sg&usqp=CAU" alt="Channel Logo">
   <span class="s-n">STREAMING NOW </span>
-  <span class="channel-name">Star Sports 1 Tamil Hd<br><span class="live-text" style="color:brown"></span></span>
-  <div class="program-name">IPL 2024 Live<br>
-    <span class="timex" style="font-style: italic;color:teal">Category: Sports<br></span>
+  <span class="channel-name">Star Vijay HD<br><span class="live-text" style="color:brown"></span></span>
+  <div class="program-name">Neeya naana<br>
+    <span class="timex" style="font-style: italic;color:teal">Category: Entertiment<br></span>
   <!-- <span class="timex" style="font-style: italic;color:teal">Starttime: <br></span>
    <span class="timex" style="font-style: italic;color:teal">Endtime: <br></span>--> 
   </div>
   <div class="program-description"></div>
  </div>
 
-</div>
-
 </body>
-
-
-
