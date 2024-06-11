@@ -36,9 +36,52 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=550&e=.m3u8
 https://bq32.short.gy/6653e83db96fd97485be20ba.mkv
 https://player.mrfooll.xyz/528036/vt.mkv?hash=AgADtQ
 
+#EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://i.postimg.cc/65v3BvQ6/IMG-20240518-182510.jpg",Stat 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://port.denver1769.in/j.php?tv=18855
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=78
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4942/1424942-a-6e211260a748.jpg" group-title="Cricket",Star Sports 1
+#EXTVLCOPT:http-user-agent=Denver1769
+https://tp.denver1769.workers.dev/tplay/78.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=235
+#EXTINF:-1 tvg-id="ts235" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/4943/1424943-a-e3a5d328a913.jpg" group-title="Cricket",Star Sports 2
+#EXTVLCOPT:http-user-agent=Denver1769
+https://tp.denver1769.workers.dev/tplay/235.mpd
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="817" tvg-name="Cartoon Network Tamil" tvg-type="Kids" group-title="JIO ⭕ | Kids" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",Cartoon Network Tamil
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=817&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSypyV2T6Uvu39NCN0YfIHhPlFqiMefQJnmsw&s" group-title="INDIA",Star Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=78
+https://mpd-tau.vercel.app/api/78.mpd?begin=20240608T113001&end=2024
+
+
+
+
+
+
+
+
+
 
 
 
