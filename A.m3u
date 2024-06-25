@@ -1,10 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports tamil
-https://port.denver1769.in/Share2.php?id=9722
- 
+
+#EXTINF:-1 tvg-id="" tvg-name="Shinchan" tvg-logo="https://i.postimg.cc/FsYSkh9H/a02fa81a4e4373d798167.jpg" group-title="",Shinchan Live
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://port.denver1769.in/Ply/tptv.php?id=58625
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
 https://mdas109.github.io/TBL/StarTamil.m3u8
+
+
+#EXTINF:-1,  tvg-id="" tvg-name="" group-title=" TVC |  TAMIL", Sony yay
+https://vsd229.mycdn.me/hls/6471716244030.m3u8/sig/Jn6g-EG8ks4/expires/1718453611044/srcIp/171.79.57.132/urls/185.226.52.91/clientType/36/srcAg/CHROME_ANDROID/mid/7038919329598/video.m3u8?p
+
 
 
 #EXTINF:-1 tvg-id="ts78" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sport 1 HD
