@@ -1,12 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Shinchan" tvg-logo="https://i.postimg.cc/FsYSkh9H/a02fa81a4e4373d798167.jpg" group-title="",Shinchan Live
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://port.denver1769.in/Ply/tptv.php?id=58625
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
+http://39.62.12.164:8000/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
-https://mdas109.github.io/TBL/StarTamil.m3u8
+http://39.62.12.164:8000/play/a0iz/index.m3u8
 
 
 #EXTINF:-1,  tvg-id="" tvg-name="" group-title=" TVC |  TAMIL", Sony yay
