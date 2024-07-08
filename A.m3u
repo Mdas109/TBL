@@ -49,6 +49,11 @@ https://player.mrfooll.xyz/528036/vt.mkv?hash=AgADtQ
 #EXTINF:-1 group-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png" tvg-logo="" group-title="Anas 🎬 | Tamil Movies",Veetula vishasham
 https://cdn102.vembz.one/hls/h7toduklamlbu3tf6rvtlkhdrwwhpr6qonl6buww7,mjsavx7rsssip5nvuta,ejsavx7rss4miyisg3q,4jsavx7rssrp2ujthba,.urlset/master.m3u8
 
+#EXTINF:-1 group-logo="https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png" tvg-logo="" group-title="Anas 🎬 | Tamil Movies",STAR
+https://cdn131.vembz.one/hls/h7todqbramlbu3tf6rwtljnw2eioojvj7mlsxhooq,7yf5qn75pgboh2kwxvq,vahnqn75pgauvwm4rcq,nahnqn75pgnzsiigj2q,.urlset/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Cricket" tvg-logo="https://i.postimg.cc/65v3BvQ6/IMG-20240518-182510.jpg",Stat 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
