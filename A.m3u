@@ -7,6 +7,8 @@ http://39.62.12.164:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
 http://39.62.12.164:8000/play/a0iz/index.m3u8
 
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA MULTI AUDIO
+http://xtv.ooo:8080/live/3848678968/400450506969/150480.ts
 
 #EXTINF:-1,  tvg-id="" tvg-name="" group-title=" TVC |  TAMIL", Sony yay
 https://vsd229.mycdn.me/hls/6471716244030.m3u8/sig/Jn6g-EG8ks4/expires/1718453611044/srcIp/171.79.57.132/urls/185.226.52.91/clientType/36/srcAg/CHROME_ANDROID/mid/7038919329598/video.m3u8?p
