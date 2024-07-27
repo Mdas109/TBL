@@ -7,7 +7,8 @@ http://39.62.12.164:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
 http://39.62.12.164:8000/play/a0iz/index.m3u8
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA MULTI AUDIO
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA MULTI AUDIO
 http://xtv.ooo:8080/live/3848678968/400450506969/150480.ts
 
 #EXTINF:-1,  tvg-id="" tvg-name="" group-title=" TVC |  TAMIL", Sony yay
@@ -62,10 +63,10 @@ https://cdn131.vembz.one/hls/h7todqbramlbu3tf6rwtljnw2eioojvj7mlsxhooq,7yf5qn75p
 http://port.denver1769.in/j.php?tv=18855
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=395&key
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTINF:-1 tvg-id=tatasky_395 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png" group-title="TATA PLAY ▶ |  Malayalam",Mazhavil Manorama HD
-https://mpd-v1.bigcric.site/api/395.mpd
+https://livestream.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://www.bigcric.site/bigcchubchat/keys.php?show_id=394&key
