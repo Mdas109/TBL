@@ -10,11 +10,13 @@ http://39.62.12.164:8000/play/a0iz/index.m3u8
 #EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama Multi Audio
 http://103.106.238.11:81/play/a065
 
-#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA Hindi
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA Hindi
 http://xtv.ooo:8080/live/3848678968/400450506969/150480.ts
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Shinchan" tvg-logo="https://i.postimg.cc/qv7BTsZZ/8595563419-F1424-D39-E80-D1-E97-ABCECCFB91-AD7-EW.jpg" group-title=" KIDS PACK",Shinchan Live
+http://port.denver1769.in/Ply/tptv.php?id=58625|User-Agent=XCIPTV-v5.0.1
 
 #EXTINF:-1 tvg-id="ts78" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD_1.png",Star Sport 1 HD
 https://bdix.proximitybd.xyz/proximity/Fazla-Rabby2.php?id=join-https://t.me/live_cricket_24
@@ -355,7 +357,8 @@ http://sansat.net:25461/02028857936892/0751169096/93735
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=521
 #EXTINF:-1 tvg-id="521" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Regional Tamil",Sun TV HD
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=521
