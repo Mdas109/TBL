@@ -7,13 +7,11 @@ http://39.62.12.164:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwVhb6HvEGcAsqFAjoMSF47u2xX4teh03i6nJewjlCu72Bo9AFdw7DJXS&s=10" group-title="Sports",Star Sports 1 Tamil
 http://39.62.12.164:8000/play/a0iz/index.m3u8
 
-#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Kids",Hungama Multi Audio
-http://103.106.238.11:81/play/a065
+#EXTINFF:-1 tvg-id="ts345" tvg-name="Hungama" tvg-logo="https://te.legra.ph/file/a56b504e91219a0121d8b.jpg" group-title="Anas kids Pack",Hungama Multi Audio
+http:\\freechitram.site:80\play\dLcLoYLPnAgPSg3bR7EbRebWFlsNvPchvZuXYDJ0ddc\m3u8
 
-
-#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kid", HUNGAMA Hindi
-http://xtv.ooo:8080/live/3848678968/400450506969/150480.ts
-
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png" group-title="Anas kids Pack",Hungama Multi Audio
+http:\\freechitram.site:80\play\dLcLoYLPnAgPSg3bR7EbRebWFlsNvPchvZuXYDJ0ddc\m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Shinchan" tvg-logo="https://i.postimg.cc/qv7BTsZZ/8595563419-F1424-D39-E80-D1-E97-ABCECCFB91-AD7-EW.jpg" group-title=" KIDS PACK",Shinchan Live
 https:\\cdn3.tamilultra.tv\HUNGAMA_TAMIL\tracks-v1a1\mono.m3u8?token=14a38e607e22e05b1e15b065aa7c5af7c54fed4f-875c78aea5fb401143e8b4a096e0c296-1724077787-1724075987
